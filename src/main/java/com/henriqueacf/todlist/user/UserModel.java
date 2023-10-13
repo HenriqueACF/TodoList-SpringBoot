@@ -1,10 +1,10 @@
 package com.henriqueacf.todlist.user;
 
-import lombok.Getter;
+import lombok.Data;
 
-@Getter
+@Data
 public class UserModel {
-     String username;
-     String name;
-     String password;
+     private String username;
+     private String name;
+     private String password;
 }
