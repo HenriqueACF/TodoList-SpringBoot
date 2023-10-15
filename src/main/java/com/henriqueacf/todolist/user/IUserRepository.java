@@ -1,4 +1,4 @@
-package com.henriqueacf.todlist.user;
+package com.henriqueacf.todolist.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.UUID;

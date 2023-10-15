@@ -1,4 +1,4 @@
-package com.henriqueacf.todlist.task;
+package com.henriqueacf.todolist.task;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

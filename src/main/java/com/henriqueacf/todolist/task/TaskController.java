@@ -1,6 +1,6 @@
-package com.henriqueacf.todlist.task;
+package com.henriqueacf.todolist.task;
 
-import com.henriqueacf.todlist.utils.Utils;
+import com.henriqueacf.todolist.utils.Utils;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

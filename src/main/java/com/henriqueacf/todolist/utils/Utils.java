@@ -1,4 +1,4 @@
-package com.henriqueacf.todlist.utils;
+package com.henriqueacf.todolist.utils;
 
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.BeanWrapper;

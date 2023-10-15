@@ -1,4 +1,4 @@
-package com.henriqueacf.todlist.user;
+package com.henriqueacf.todolist.user;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

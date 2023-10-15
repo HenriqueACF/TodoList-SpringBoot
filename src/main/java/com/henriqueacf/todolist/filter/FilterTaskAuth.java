@@ -1,7 +1,7 @@
-package com.henriqueacf.todlist.filter;
+package com.henriqueacf.todolist.filter;
 
 import at.favre.lib.crypto.bcrypt.BCrypt;
-import com.henriqueacf.todlist.user.IUserRepository;
+import com.henriqueacf.todolist.user.IUserRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

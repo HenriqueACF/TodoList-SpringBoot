@@ -1,4 +1,4 @@
-package com.henriqueacf.todlist.task;
+package com.henriqueacf.todolist.task;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

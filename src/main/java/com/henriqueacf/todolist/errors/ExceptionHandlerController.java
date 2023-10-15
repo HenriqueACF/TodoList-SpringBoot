@@ -1,4 +1,4 @@
-package com.henriqueacf.todlist.errors;
+package com.henriqueacf.todolist.errors;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
